@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Colors
       Lib
   other-modules:
       Paths_colorise
